@@ -10,8 +10,8 @@
 
 #img {
 	position: absolute;
-	top: 50px;
-	left: 800px;
+	margin-top: -50px;
+	margin-left: 500px;
 }
 
 h3 {
